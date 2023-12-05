@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "od7uT705tSsi8r2rC7kbJhoOEd5uD+czN2HbFmEM070=",
+  "Source": "ACME-BOOKINGS",
+  "BasePath": "_content/ACME-BOOKINGS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
