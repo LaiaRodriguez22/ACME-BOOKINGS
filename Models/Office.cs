@@ -1,0 +1,12 @@
+﻿namespace ACME_BOOKINGS.Models
+{
+    public class Office
+    {
+        public int OfficeId { get; set; }
+        public string NameOffice { get; set; }
+
+        //Foreign Key City
+        public int CityId { get; set; }
+        public string capacidad { get; set; }
+    }
+}
